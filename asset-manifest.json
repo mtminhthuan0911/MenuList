@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/https//mtminhthuan0911.github.io/MenuList/static/css/main.8fe200cb.chunk.css",
-    "main.js": "/https//mtminhthuan0911.github.io/MenuList/static/js/main.53179cd4.chunk.js",
-    "main.js.map": "/https//mtminhthuan0911.github.io/MenuList/static/js/main.53179cd4.chunk.js.map",
-    "runtime-main.js": "/https//mtminhthuan0911.github.io/MenuList/static/js/runtime-main.af656a38.js",
-    "runtime-main.js.map": "/https//mtminhthuan0911.github.io/MenuList/static/js/runtime-main.af656a38.js.map",
-    "static/js/2.1b9ee042.chunk.js": "/https//mtminhthuan0911.github.io/MenuList/static/js/2.1b9ee042.chunk.js",
-    "static/js/2.1b9ee042.chunk.js.map": "/https//mtminhthuan0911.github.io/MenuList/static/js/2.1b9ee042.chunk.js.map",
-    "static/js/3.55635617.chunk.js": "/https//mtminhthuan0911.github.io/MenuList/static/js/3.55635617.chunk.js",
-    "static/js/3.55635617.chunk.js.map": "/https//mtminhthuan0911.github.io/MenuList/static/js/3.55635617.chunk.js.map",
-    "index.html": "/https//mtminhthuan0911.github.io/MenuList/index.html",
-    "static/css/main.8fe200cb.chunk.css.map": "/https//mtminhthuan0911.github.io/MenuList/static/css/main.8fe200cb.chunk.css.map",
-    "static/js/2.1b9ee042.chunk.js.LICENSE.txt": "/https//mtminhthuan0911.github.io/MenuList/static/js/2.1b9ee042.chunk.js.LICENSE.txt"
+    "main.css": "/MenuList/static/css/main.8fe200cb.chunk.css",
+    "main.js": "/MenuList/static/js/main.53179cd4.chunk.js",
+    "main.js.map": "/MenuList/static/js/main.53179cd4.chunk.js.map",
+    "runtime-main.js": "/MenuList/static/js/runtime-main.0ab54ab1.js",
+    "runtime-main.js.map": "/MenuList/static/js/runtime-main.0ab54ab1.js.map",
+    "static/js/2.fc48db05.chunk.js": "/MenuList/static/js/2.fc48db05.chunk.js",
+    "static/js/2.fc48db05.chunk.js.map": "/MenuList/static/js/2.fc48db05.chunk.js.map",
+    "static/js/3.55635617.chunk.js": "/MenuList/static/js/3.55635617.chunk.js",
+    "static/js/3.55635617.chunk.js.map": "/MenuList/static/js/3.55635617.chunk.js.map",
+    "index.html": "/MenuList/index.html",
+    "static/css/main.8fe200cb.chunk.css.map": "/MenuList/static/css/main.8fe200cb.chunk.css.map",
+    "static/js/2.fc48db05.chunk.js.LICENSE.txt": "/MenuList/static/js/2.fc48db05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.af656a38.js",
-    "static/js/2.1b9ee042.chunk.js",
+    "static/js/runtime-main.0ab54ab1.js",
+    "static/js/2.fc48db05.chunk.js",
     "static/css/main.8fe200cb.chunk.css",
     "static/js/main.53179cd4.chunk.js"
   ]
