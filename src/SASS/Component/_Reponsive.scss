@@ -1,0 +1,23 @@
+@media screen and (min-width : 375px) and (max-width : 760px) {
+    .ListProduct{
+            display: block;
+            margin-top: 50px;
+            max-width: 500px;
+            width: 390px;
+            &-item{
+                width: 100%;
+                &-image{
+                    
+                }
+            }
+        }
+    .header{
+        .menu{
+            display: none;
+        }
+    }
+
+    .cartshop{
+        left: 65%;
+    }
+}
