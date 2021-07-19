@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/https//mtminhthuan0911@gmail.com/MenuList/static/css/main.8fe200cb.chunk.css",
-    "main.js": "/https//mtminhthuan0911@gmail.com/MenuList/static/js/main.53179cd4.chunk.js",
-    "main.js.map": "/https//mtminhthuan0911@gmail.com/MenuList/static/js/main.53179cd4.chunk.js.map",
-    "runtime-main.js": "/https//mtminhthuan0911@gmail.com/MenuList/static/js/runtime-main.a8fba1ab.js",
-    "runtime-main.js.map": "/https//mtminhthuan0911@gmail.com/MenuList/static/js/runtime-main.a8fba1ab.js.map",
-    "static/js/2.2fc0ec92.chunk.js": "/https//mtminhthuan0911@gmail.com/MenuList/static/js/2.2fc0ec92.chunk.js",
-    "static/js/2.2fc0ec92.chunk.js.map": "/https//mtminhthuan0911@gmail.com/MenuList/static/js/2.2fc0ec92.chunk.js.map",
-    "static/js/3.55635617.chunk.js": "/https//mtminhthuan0911@gmail.com/MenuList/static/js/3.55635617.chunk.js",
-    "static/js/3.55635617.chunk.js.map": "/https//mtminhthuan0911@gmail.com/MenuList/static/js/3.55635617.chunk.js.map",
-    "index.html": "/https//mtminhthuan0911@gmail.com/MenuList/index.html",
-    "static/css/main.8fe200cb.chunk.css.map": "/https//mtminhthuan0911@gmail.com/MenuList/static/css/main.8fe200cb.chunk.css.map",
-    "static/js/2.2fc0ec92.chunk.js.LICENSE.txt": "/https//mtminhthuan0911@gmail.com/MenuList/static/js/2.2fc0ec92.chunk.js.LICENSE.txt"
+    "main.css": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/css/main.8fe200cb.chunk.css",
+    "main.js": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/js/main.53179cd4.chunk.js",
+    "main.js.map": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/js/main.53179cd4.chunk.js.map",
+    "runtime-main.js": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/js/runtime-main.73ebff7d.js",
+    "runtime-main.js.map": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/js/runtime-main.73ebff7d.js.map",
+    "static/js/2.4c728184.chunk.js": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/js/2.4c728184.chunk.js",
+    "static/js/2.4c728184.chunk.js.map": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/js/2.4c728184.chunk.js.map",
+    "static/js/3.55635617.chunk.js": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/js/3.55635617.chunk.js",
+    "static/js/3.55635617.chunk.js.map": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/js/3.55635617.chunk.js.map",
+    "index.html": "/https//mtminhthuan0911@gmail.github.io/MenuList/index.html",
+    "static/css/main.8fe200cb.chunk.css.map": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/css/main.8fe200cb.chunk.css.map",
+    "static/js/2.4c728184.chunk.js.LICENSE.txt": "/https//mtminhthuan0911@gmail.github.io/MenuList/static/js/2.4c728184.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8fba1ab.js",
-    "static/js/2.2fc0ec92.chunk.js",
+    "static/js/runtime-main.73ebff7d.js",
+    "static/js/2.4c728184.chunk.js",
     "static/css/main.8fe200cb.chunk.css",
     "static/js/main.53179cd4.chunk.js"
   ]
